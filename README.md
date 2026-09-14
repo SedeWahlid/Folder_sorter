@@ -15,7 +15,7 @@
 * 🎯 **Extension-Based Sorting**: Target specific file types (e.g., `pdf`, `jpg`, `docx`).
 * 📁 **Auto-Folder Creation**: Automatically generates a neatly named folder (e.g., "PDF") in your target directory.
 * 🛡️ **Error Handling**: Built-in protections against permission errors and invalid user inputs.
-* ⚡ **Zero Dependencies**: Runs entirely on Python's standard library (`os`, `shutil`). No `pip install` required!
+* ⚡ **Zero Dependencies**: Runs entirely on Python's standard library (`os`, `shutil`). No `pip install` required except for the tests then you need to install pytest!
 
 ---
 
