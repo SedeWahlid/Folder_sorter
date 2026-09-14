@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
 ![CLI](https://img.shields.io/badge/Interface-CLI-4D4D4D?style=for-the-badge\&logo=gnometerminal\&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Tests](https://github.com/SedeWahlid/Folder_sorter/actions/workflows/tests.yml/badge.svg)
 
 ---
 
